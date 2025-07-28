@@ -1,7 +1,7 @@
 ### Hi there, this is Etab 👩‍🦰
 - MSc in Computer Science 
 - Focusing on AI and Bioinformatics
-- Passionate about translating AI research into solutions for complex biological and biomedical problems  
+-  I'm dedicated to using data to make a meaningful impact on real-world biological and medical problems. 
 
 <!--
 **etab12/etab12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
