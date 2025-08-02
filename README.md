@@ -1,4 +1,4 @@
-### Hi there, this is Etab 
+### Hi there! I'm Etab
 - MSc in Computer Science 
 - Focusing on AI and Bioinformatics
 -  I'm dedicated to using data to make a meaningful impact on real-world biological and medical problems. 
